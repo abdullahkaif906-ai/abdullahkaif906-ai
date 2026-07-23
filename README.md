@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Abdullah Kaif
 
-<!--
-**abdullahkaif906-ai/abdullahkaif906-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyber Security Student | WordPress Developer | Java Programmer
 
-Here are some ideas to get you started:
+I'm a Cyber Security student at COMSATS University Islamabad who enjoys building responsive WordPress websites, developing Java applications, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on WordPress websites and personal projects
+- 🌱 Currently learning Python and Cyber Security
+- 💻 Built 10+ live WordPress websites
+- 📚 Learning every day through practical projects
+- 🎯 Looking for Internship & Freelance Opportunities
+
+---
+
+## 🌐 Portfolio Projects
+
+- https://aimcarromapp.com.in/
+- https://vmake.com.in/
+- https://instathunder.org.in/
+- https://thepikashows.com.in/
+- https://wahopro.co.in/
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- Python
+- HTML
+- CSS
+
+### Web
+- WordPress
+- GeneratePress
+- Kadence Blocks
+- SEO
+
+### Tools
+- Git
+- GitHub
+
+### Currently Learning
+- Cyber Security
+- Linux
+- Networking
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/abdullahkaif906-ai
+
+LinkedIn:
+www.linkedin.com/in/abdullahkaif
+
+
+
+---
+
+⭐ Thanks for visiting my profile!
